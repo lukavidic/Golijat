@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "pic24fj64ga702-i") (type "KiCad") (uri "${KIPRJMOD}/pic24fj64ga702-i.kicad_sym") (options "") (descr ""))
+)
